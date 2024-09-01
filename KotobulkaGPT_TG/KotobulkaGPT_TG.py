@@ -26,7 +26,7 @@ IMAGES_DIR = 'Images'
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-# Creating folders
+# Creating folders (Need to fix)
 def create_dirs():
     if not os.path.exists(HISTORY_DIR):
         os.makedirs(HISTORY_DIR)

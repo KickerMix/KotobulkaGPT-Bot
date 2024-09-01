@@ -1,4 +1,4 @@
-TELEGRAM_BOT_TOKEN=
-OPENAI_API_KEY=
-SECRET_WORD=
-DEFAULT_ROLE=
+TELEGRAM_BOT_TOKEN=your_telegram_bot_token
+OPENAI_API_KEY=your_openai_api_key
+SECRET_WORD=your_secret_word
+DEFAULT_ROLE=default_role_description

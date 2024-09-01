@@ -1,6 +1,5 @@
 # -*- mode: python ; coding: utf-8 -*-
 
-
 a = Analysis(
     ['C:\\Users\\KickerMix\\source\\repos\\KotobulkaGPT_TG\\KotobulkaGPT_TG\\KotobulkaGPT_TG.py'],
     pathex=[],
